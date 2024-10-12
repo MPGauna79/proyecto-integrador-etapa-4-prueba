@@ -1,0 +1,58 @@
+.contacto{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 5rem;
+}
+
+.contacto-formulario {
+    background-color: #C3BEFF;
+    height: 40rem;
+    width: 50rem;
+    align-self: center;
+    
+.formulario{
+    text-align: center;
+}    
+&__ficha{
+    
+    align-items: center;
+    
+    
+    
+    
+ 
+}    
+&__ficha-items{
+    margin-top: 2rem;
+    border-radius: 10px;
+    align-items: center;
+    margin-left: 10rem;
+
+&__enviar{
+    height: 2rem;
+    width: 10rem;
+    border-radius: 10px;
+    background-color: #A559FF;
+    color: white;
+    margin-bottom: 7rem;
+}    
+}
+
+&__ficha-input{
+    height:2rem;
+    width: 20rem;
+    border-radius: 10px;
+    margin-left: 20rem;
+}
+
+&__ficha-select{
+    height: 2rem;
+    width: 10rem;
+    border-radius: 10px;
+    margin-left: 20rem;
+}
+
+   
+}

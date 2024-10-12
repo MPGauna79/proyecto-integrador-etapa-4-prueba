@@ -1,0 +1,169 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "motorola moto e7",
+      "foto": "/public/img/motorola-moto-e7.jpg",
+      "detalles": "CELULAR LIBERADO MOTO E7 AZUL 6.5 OCTA-CORE 2GB+32GB 48MPX HUELLA MOTOROLA",
+      "precio": "250",
+      "stock": "20",
+      "marca": "Motorola",
+      "categoria": "smartphones",
+      "envio": "true"
+    },
+    {
+      "id": 2,
+      "nombre": "IPhone 12",
+      "foto": "/public/img/apple-iphone-12.jpg",
+      "detalles": "CELULAR LIBERADO, 6.1, 4 GB DE RAM, CHIP A14 BIONIC, RESISTENTE AL AGUA",
+      "precio": "1000",
+      "stock": "5",
+      "marca": "Apple",
+      "categoria": "smartphones",
+      "envio": "true"
+    },
+    {
+      "id": 3,
+      "nombre": "camara canon",
+      "foto": "/public/img/camara-canon.jpeg",
+      "detalles": "CANON EOS REBEL KIT T100 + LENTE 18-55mm III DSLR COLOR NEGRO",
+      "precio": "600",
+      "stock": "3",
+      "marca": "Cannon",
+      "categoria": "camaras",
+      "envio": "true"
+    },
+    {
+      "id": 4,
+      "nombre": "Chromecast 3",
+      "foto": "/public/img/chromecast-google.jpg",
+      "detalles": "CONECTA TU TV CON CABLE FLEXIBLE DE SALIDA HDMI + PUERTO USB PARA CARGA",
+      "precio": "120",
+      "stock": "30",
+      "marca": "Google",
+      "categoria": "chromecast",
+      "envio": "true"
+    },
+    {
+      "id": 5,
+      "nombre": "DJI Mavic 2 Pro",
+      "foto": "/public/img/dji-mavic-2-pro.jpg",
+      "detalles": "CAMARA 4K, HASTA 72KM/H, 4 MOTORES, TIEMPO MAXIMO DE VUELO DE 31 MIN., INCLUYE 3 BATERIAS",
+      "precio": "1790",
+      "stock": "7",
+      "marca": "Dji",
+      "categoria": "drones",
+      "envio": "false"
+    },
+    {
+      "id": 6,
+      "nombre": "Auriculares Sony Inhalámbricos",
+      "foto": "/public/img/auriculares-sony.jpg",
+      "detalles": "ALCANCE INHALAMBRICO DE 10 MTS, MANOS LIBRES, CON MICROFONO INCORPORADO, TAMAÑO DE ALTAVOZ 30 MM",
+      "precio": "90",
+      "stock": "120",
+      "marca": "Sony",
+      "categoria": "auriculares",
+      "envio": "true"
+    },
+    {
+      "id": 7,
+      "nombre": "Drone Dji Mini",
+      "foto": "/public/img/dron-dji-mini.jpeg",
+      "detalles": "CAMARA 4K, 4 MOTORES, VIENE CON 3 BATERIAS,TIEMPO MAXIMO DE VUELO DE 38 MIN",
+      "precio": "650",
+      "stock": "9",
+      "marca": "Dji",
+      "categoria": "drones",
+      "envio": "false"
+    },
+    {
+      "id": 8,
+      "nombre": "Modem Motorola Surfboard SB5101",
+      "foto": "/public/img/modem-motorola-surfboard.webp",
+      "detalles": "30MBPS DE INTERNET, DOCSIS 2.0, LUCES LED INDICADORAS DE ESTADO, PUERTO ETHERNET 10/100, SOPORTA 63 USUARIOS",
+      "precio": "179",
+      "stock": "7",
+      "marca": "Motorola",
+      "categoria": "modems",
+      "envio": "false"
+    },
+    {
+      "id": 9,
+      "nombre": "Notebook Lenovo IP3 Aereo5",
+      "foto": "/public/img/notebook-lenovo.jpg",
+      "detalles": "PROCESADOR AMD RYZEN 3, GRAFICOS AMD RADEON INTEGRADOS, MEMORIA DDR4-3200 SOLDADO DE  4GB, SSD DE 256GB",
+      "precio": "1700",
+      "stock": "3",
+      "marca": "Lenovo",
+      "categoria": "notebook",
+      "envio": "false"
+    },
+    {
+      "id": 10,
+      "nombre": "Parlante portátil JBL Flip Negro",
+      "foto": "/public/img/parlante-jbl.jpg",
+      "detalles": "20 WATTS DE POTENCIA, RESISTENTE AL AGUA, BLUETOOTH, HASTA 12 HS DE MUSICA",
+      "precio": "290",
+      "stock": "27",
+      "marca": "Jbl",
+      "categoria": "parlantes",
+      "envio": "true"
+    },
+    {
+      "id": 11,
+      "nombre": "Samsung tu7000 4K 50 pulgadas",
+      "foto": "/public/img/samsung-tu7000.jpg",
+      "detalles": "TV SMART 4K, PANTALLA LED, USB, HDMI, WI-FI, BLUETOOTH, 2 PARLANTES, DOLBY DIGITAL PLUS",
+      "precio": "630",
+      "stock": "10",
+      "marca": "Samsung",
+      "categoria": "samrt tv",
+      "envio": "false"
+    },
+    {
+      "id": 12,
+      "nombre": "Sony playstation 5",
+      "foto": "/public/img/sony-playstation-5.jpg",
+      "detalles": "MEMORIA RAM DE 16GB, WI-FI, BLUETOOTH, VIENE CON 1 CONTROL, CABLE HDMI Y USB, SOPORTA RED 4G",
+      "precio": "1000",
+      "stock": "4",
+      "marca": "Sony",
+      "categoria": "consolas de videojuegos",
+      "envio": "false"
+    },
+    {
+      "id": 13,
+      "nombre": "Notebook Dell Latitude 3520",
+      "foto": "/public/img/notebook-dell-latitude-5520.jpg",
+      "detalles": "INTEL CORE I7 1165G7, INTEL IRIS XE GRAPHICS, SSD 256GB, 8GB DE RAM, WINDOWS 10",
+      "precio": "2400",
+      "stock": "3",
+      "marca": "Dell",
+      "categoria": "notebook",
+      "envio": "false"
+    },
+    {
+      "id": 14,
+      "nombre": "Xbox One",
+      "foto": "/public/img/xbox-one.jpg",
+      "detalles": "CAPACIDAD DE 500GB, 8GB DE RAM, WI-FI, HDMI, USB, CPU AMD JAGUAR, GPU AMD RADEON, INCLUYE 1 CONTROL INHALAMBRICO",
+      "precio": "850",
+      "stock": "5",
+      "marca": "Microsoft",
+      "categoria": "consolas de videojuegos",
+      "envio": "false"
+    },
+    {
+      "id": 15,
+      "nombre": "Parlante Portátil Soul",
+      "foto": "/public/img/parlante-karaoke.webp",
+      "detalles": "VOLTAJE 220V, BLUETOTH, BATERIA RECARGABLE, POTENCIA DE 3W, VIENE CON MICROFONO",
+      "precio": "60",
+      "stock": "50",
+      "marca": "Soul",
+      "categoria": "parlantes",
+      "envio": "true"
+    }
+  ]
+}
